@@ -7,3 +7,4 @@
 ## Esquema do projeto
 
 ![Esquema do projeto](esquema_projeto_v2.png)
+
