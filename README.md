@@ -2,7 +2,7 @@
 
 ## Contextualização
 
-- Projeto Arduíno que acende o LED incorporado(LED_BUILTIN) e o faz piscar.<br>
+-Neste experimento faz com que o LED incorporado e um LED pisque utilizando o pino digital 13 (LED_BUILTIN).<br>
 
 ## Esquema do projeto
 
